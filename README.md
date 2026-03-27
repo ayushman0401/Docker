@@ -10,7 +10,7 @@
 - [Dockerfile](#dockerfile)
   - [Common Dockerfile Instructions](#common-dockerfile-instructions)
   - [Passing Environment Variables](#passing-environment-variables)
-  - [Layers & Caching](#layers--caching)
+- [Layers & Caching](#layers--caching)
 - [Volumes](#volumes)
 - [Network](#network)
 - [Docker Compose](#docker-compose)
